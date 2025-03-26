@@ -7,6 +7,7 @@ int main()
 {
     Student s; // Creating object of Student class
     cout << "Hello";
+    cout << "Hello";
     cout << "+==================================================+" << endl;
     s.display(); // Display results
     cout << "_____________________________________________________" << endl;
